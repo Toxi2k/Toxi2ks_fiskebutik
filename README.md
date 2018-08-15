@@ -1,4 +1,4 @@
-esx_Toxi2ks_fiskebutik
+esx_Toxi2ks_fiskebutik är en fiskebutik där du säljer t.ex bete och fiskespö och något annat som du tycker
 
 # esx_shops
 
